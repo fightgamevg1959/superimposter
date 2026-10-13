@@ -1,0 +1,12 @@
+C:\Users\Home\Downloads\SuperImpostor\SuperImpostor\bin\Release\net6.0\SuperImpostor.deps.json
+C:\Users\Home\Downloads\SuperImpostor\SuperImpostor\bin\Release\net6.0\SuperImpostor.dll
+C:\Users\Home\Downloads\SuperImpostor\SuperImpostor\bin\Release\net6.0\SuperImpostor.pdb
+C:\Users\Home\Downloads\SuperImpostor\SuperImpostor\obj\Release\net6.0\SuperImpostor.csproj.AssemblyReference.cache
+C:\Users\Home\Downloads\SuperImpostor\SuperImpostor\obj\Release\net6.0\SuperImpostor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Home\Downloads\SuperImpostor\SuperImpostor\obj\Release\net6.0\SuperImpostor.AssemblyInfoInputs.cache
+C:\Users\Home\Downloads\SuperImpostor\SuperImpostor\obj\Release\net6.0\SuperImpostor.AssemblyInfo.cs
+C:\Users\Home\Downloads\SuperImpostor\SuperImpostor\obj\Release\net6.0\SuperImpostor.csproj.CoreCompileInputs.cache
+C:\Users\Home\Downloads\SuperImpostor\SuperImpostor\obj\Release\net6.0\SuperImpostor.dll
+C:\Users\Home\Downloads\SuperImpostor\SuperImpostor\obj\Release\net6.0\refint\SuperImpostor.dll
+C:\Users\Home\Downloads\SuperImpostor\SuperImpostor\obj\Release\net6.0\SuperImpostor.pdb
+C:\Users\Home\Downloads\SuperImpostor\SuperImpostor\obj\Release\net6.0\ref\SuperImpostor.dll
