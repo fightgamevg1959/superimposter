@@ -8,7 +8,7 @@
     <Nullable>disable</Nullable>
     <GenerateAssemblyInfo>true</GenerateAssemblyInfo>
     <!-- Pasta que CONTEM a pasta BepInEx (perfil do launcher ou pasta do Among Us) -->
-    <AmongUsDir>C:\Users\Home\AppData\Roaming\allofus\Starlight\data\profiles\random-2-1791841863610</AmongUsDir>
+    <AmongUsDir>C:\Program Files (x86)\Steam\steamapps\common\Among Us</AmongUsDir>
     <PluginsDir>$(AmongUsDir)\BepInEx\plugins</PluginsDir>
   </PropertyGroup>
   <ItemGroup>
